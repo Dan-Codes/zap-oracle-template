@@ -1,9 +1,9 @@
 {
 
 	"title": "Title",
-	"public_key": "Public key",
-	"NODE_URL": "wss://mainnet.infura.io/ws/v3/63dbbe242127449b9aeb061c6640ab95",
-	"mnemonic": "",
+	"public_key": "0xB85cb152e91b1A852309588AA9A00fAEADA95734",
+	"NODE_URL": "wss://kovan.infura.io/ws/xeb916AFjrcttuQlezyq",
+	"mnemonic": "cause output fire subject fault twin save area real begin kick fire",
 	"STATUS_URL":"",
 	"EndpointSchema": {
 		"name": "",
@@ -17,7 +17,7 @@
 			1000000000000000000
 		],
 		"broker": "",
-		"md": "Adding description for your Oracle here",
+		"md": "This is a test",
 		"queryList": [{
 			"query": "Query string that your Oracle will accept",
 			"params": [],
